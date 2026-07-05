@@ -8,6 +8,7 @@
 - Object Detection
 - Image Processing
 - Robotics (ROS2)
+- N8N Workflows
 
 ### Data
 - Data Engineering
@@ -36,6 +37,7 @@
 - ONNX Runtime
 - Arduino
 - Linux
+- n8n
 
 ### Databases
 - SQLite
