@@ -20,6 +20,7 @@
 - C++
 - SQL
 - Javascript
+- Problem Solving
 
 ### Frameworks & Libraries
 - PyTorch
