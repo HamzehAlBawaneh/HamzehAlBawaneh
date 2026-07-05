@@ -71,26 +71,36 @@ My interests include:
 ## 🚀 Featured Projects
 
 ### 🛡️ AI-Assisted Public Threat Detection System
-A real-time surveillance platform that combines computer vision and deep learning for intelligent public safety.
+**Computer Vision | Deep Learning | Flask | YOLOv8**
+
+Developed a real-time intelligent surveillance system capable of detecting weapons, recognizing registered individuals, and assessing threat levels through a live monitoring dashboard.
 
 **Highlights**
-- Weapon Detection (Knife, Pistol, Bat)
-- Face Recognition
-- Threat Level Classification
-- Flask Monitoring Dashboard
-- ONNX Optimized Inference
-- SQLite Incident Logging
+- Real-time weapon detection (Knife, Pistol, Bat)
+- Face recognition using facial embeddings
+- Threat level classification
+- Flask-based monitoring dashboard
+- SQLite incident logging
+- ONNX optimized inference
 
 🔗 Repository:
 https://github.com/HamzehAlBawaneh/AI-Public-Threat-Detection
 
 ---
 
-### 📊 Machine Learning & Data Science Projects
+### 📊 MetaServ AI Internship
+**AI Workflows| Nov 2025 – Present**
 
-A collection of machine learning and data science projects covering the complete workflow from data preprocessing to model evaluation.
+Participated in a project-based Artificial Intelligence internship focused on solving real-world business problems using n8n workflows techniques.
 
-**Topics**
+**Highlights**
+- Understand n8n environment
+- Building a real workflow for business problems 
+
+---
+### 📊 Machine Learning & Data Science Projects 
+A collection of machine learning and data science projects covering the complete workflow from data preprocessing to model evaluation. 
+**Topics** 
 - Data Cleaning & Preprocessing
 - Feature Engineering
 - Exploratory Data Analysis (EDA)
@@ -99,44 +109,73 @@ A collection of machine learning and data science projects covering the complete
 - Model Evaluation
 - Data Visualization
 
+### 🏗️ AI Floorplan Generator
+**Artificial Intelligence | Computer Vision | Python | 3 Weeks**
+
+Developed an intelligent system capable of automatically generating optimized 2D building floorplans based on user requirements such as land shape, area, building type, and budget.
+
+**Highlights**
+- Procedural floorplan generation
+- Constraint-based optimization
+- Custom room allocation
+- Dynamic land-shape adaptation
+
+---
+
+### 🤖 Smart Campus Security Robot
+**Robotics | Embedded Systems | Computer Vision | 1 Month**
+
+Designed and implemented an autonomous campus patrol robot capable of following predefined routes while integrating computer vision and embedded control systems.
+
+**Highlights**
+- ESP32-CAM integration
+- Line-following navigation
+- IR sensor array
+- Motor control using L298N
+- Autonomous campus patrol
+
+---
+
+### 💊 Pharmacy Management System
+**Python | GUI Development | Database | 2.5 Months**
+
+Developed the backend of a desktop pharmacy management system to manage medicines, inventory, customer information, and billing operations.
+
+**Highlights**
+- Inventory management
+- Customer records
+- Billing system
+- CSV/Database integration
+- Python GUI application
+
 ---
 
 ### 🎮 Tic-Tac-Toe AI
+**Artificial Intelligence | Python | Algorithms | 2 Months**
 
-An interactive Tic-Tac-Toe game developed in Python demonstrating game logic and artificial intelligence concepts.
+Designed and implemented an intelligent Tic-Tac-Toe game featuring multiple difficulty levels, including an unbeatable AI opponent based on the Minimax algorithm.
 
 **Highlights**
-- Python Implementation
-- Game Logic
-- Minimax Algorithm
-- Interactive User Interface
+- Minimax algorithm
+- Three difficulty levels
+- Interactive graphical interface
+- AI decision-making
+- Game state evaluation
 
 ---
 
 ### 📑 Systems Analysis & Design Projects
+**Software Engineering | Database Design**
 
-Software engineering projects focused on analyzing, designing, and documenting information systems.
+Completed multiple academic software engineering projects covering the full software development lifecycle.
 
 **Highlights**
-- System Analysis
+- Requirements Analysis
 - UML Diagrams
+- Use Case Diagrams
 - ER Diagrams
 - Database Design
 - Software Documentation
-
----
-
-### 🤖 Robotics & Intelligent Systems
-
-Robotics projects integrating embedded systems, sensors, and artificial intelligence.
-
-**Highlights**
-- Line Following Robot
-- Computer Vision Integration
-- Sensor Fusion
-- Arduino Programming
-- Embedded Systems
-- Autonomous Navigation
 
 ### 📚 Current Interests
 
