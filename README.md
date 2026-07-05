@@ -2,7 +2,11 @@
 
 ## 🎓 About Me
 
-I'm an Artificial Intelligence student at **Middle East University (Jordan)** passionate about building intelligent systems that solve real-world problems.
+I'm an Artificial Intelligence student at **Middle East University** with a strong interest in Machine Learning, Deep Learning, Computer Vision, Data Science, Robotics, and Intelligent Systems.
+
+I enjoy building AI-powered applications that combine data engineering, software development, and modern machine learning techniques to solve real-world problems.
+
+I'm continuously improving my skills by developing end-to-end projects ranging from computer vision systems and robotics to data science and software engineering applications.
 
 My interests include:
 
