@@ -17,7 +17,7 @@ My interests include:
 - 📊 Data Engineering
 - 🗄️ Data Mining
 - 🌐 Backend Development
-- 🤖 Robotics ROS2
+- 🤖 Robotics
 
 ## Technical Skills
 
