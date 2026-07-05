@@ -28,7 +28,7 @@ My interests include:
 - Face Recognition
 - Object Detection
 - Image Processing
-- Robotics (ROS2)
+- Robotics
 - N8N Workflows
 
 ### Data
