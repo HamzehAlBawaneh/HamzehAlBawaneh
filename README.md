@@ -93,7 +93,7 @@ https://github.com/HamzehAlBawaneh/AI-Public-Threat-Detection
 ---
 
 ### 📊 MetaServ AI Internship
-**AI Workflows| Nov 2025 – Present**
+**AI Workflows| Nov 2025 – Feb 2026**
 
 Participated in a project-based Artificial Intelligence internship focused on solving real-world business problems using n8n workflows techniques.
 
