@@ -50,6 +50,8 @@ I enjoy building practical, end-to-end systems that combine **AI models, softwar
 - Object Detection
 - Face Recognition
 - Image Processing
+- Camera Systems
+- Live Video Monitoring
 
 ### Data Science & Data
 - Python
@@ -69,7 +71,6 @@ I enjoy building practical, end-to-end systems that combine **AI models, softwar
 - C++
 - JavaScript
 - SQL
-- Problem Solving
 
 ### Web Development
 - React
@@ -100,6 +101,7 @@ I enjoy building practical, end-to-end systems that combine **AI models, softwar
 - Linux
 - Embedded Systems
 - Robotics
+- System Verification
 
 ### Tools
 - Git
@@ -167,7 +169,7 @@ An autonomous campus patrol robot combining embedded control, sensors, and compu
 - L298N motor controller
 - Autonomous movement
 - Embedded system integration
-
+[CampusGuard-Robot](https://github.com/HamzehAlBawaneh/CampusGuard-Robot)
 ---
 
 ## 🤖 AI Workflow Automation with n8n
